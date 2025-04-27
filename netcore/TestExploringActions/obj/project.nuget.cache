@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYNKbQ9QQlI=",
+  "dgSpecHash": "IXC2dwpJKTk=",
   "success": true,
-  "projectFilePath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/TestExploringActions/TestExploringActions.csproj",
+  "projectFilePath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/TestExploringActions/TestExploringActions.csproj",
   "expectedPackageFiles": [
     "/Users/alejandrohernandez/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/alejandrohernandez/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

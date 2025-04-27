@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj": {}
+    "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj": {}
   },
   "projects": {
-    "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj": {
+    "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj",
+        "projectUniqueName": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj",
         "projectName": "ExploringAccions",
-        "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj",
+        "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj",
         "packagesPath": "/Users/alejandrohernandez/.nuget/packages/",
-        "outputPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/obj/",
+        "outputPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alejandrohernandez/.nuget/NuGet/NuGet.Config"

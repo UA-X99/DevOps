@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGDtl7kXr2U=",
+  "dgSpecHash": "qH88n0lMv9U=",
   "success": true,
-  "projectFilePath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/Testexploringaccions/Testexploringaccions.csproj",
+  "projectFilePath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/Testexploringaccions/Testexploringaccions.csproj",
   "expectedPackageFiles": [
     "/Users/alejandrohernandez/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/alejandrohernandez/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",

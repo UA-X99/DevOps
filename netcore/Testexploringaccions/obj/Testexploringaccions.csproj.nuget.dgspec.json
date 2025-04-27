@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/Testexploringaccions/Testexploringaccions.csproj": {}
+    "/Users/alejandrohernandez/Documents/git/DevOps/netcore/Testexploringaccions/Testexploringaccions.csproj": {}
   },
   "projects": {
-    "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj": {
+    "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj",
+        "projectUniqueName": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj",
         "projectName": "ExploringAccions",
-        "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj",
+        "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj",
         "packagesPath": "/Users/alejandrohernandez/.nuget/packages/",
-        "outputPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/obj/",
+        "outputPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alejandrohernandez/.nuget/NuGet/NuGet.Config"
@@ -86,14 +86,14 @@
         }
       }
     },
-    "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/Testexploringaccions/Testexploringaccions.csproj": {
+    "/Users/alejandrohernandez/Documents/git/DevOps/netcore/Testexploringaccions/Testexploringaccions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/Testexploringaccions/Testexploringaccions.csproj",
+        "projectUniqueName": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/Testexploringaccions/Testexploringaccions.csproj",
         "projectName": "Testexploringaccions",
-        "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/Testexploringaccions/Testexploringaccions.csproj",
+        "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/Testexploringaccions/Testexploringaccions.csproj",
         "packagesPath": "/Users/alejandrohernandez/.nuget/packages/",
-        "outputPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/Testexploringaccions/obj/",
+        "outputPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/Testexploringaccions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alejandrohernandez/.nuget/NuGet/NuGet.Config"
@@ -108,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj": {
-                "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/NETCORE/ExploringAccions/ExploringAccions.csproj"
+              "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj": {
+                "projectPath": "/Users/alejandrohernandez/Documents/git/DevOps/netcore/ExploringAccions/ExploringAccions.csproj"
               }
             }
           }

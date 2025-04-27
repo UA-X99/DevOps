@@ -1,0 +1,6 @@
+C:\Users\ua-x9\source\repos\ExploringAccions\TestExploringActions\bin\Debug\net8.0\CoverletSourceRootsMapping_TestExploringActions
+C:\Users\ua-x9\source\repos\ExploringAccions\TestExploringActions\obj\Debug\net8.0\TestExploringActions.csproj.AssemblyReference.cache
+C:\Users\ua-x9\source\repos\ExploringAccions\TestExploringActions\obj\Debug\net8.0\TestExploringActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ua-x9\source\repos\ExploringAccions\TestExploringActions\obj\Debug\net8.0\TestExploringActions.AssemblyInfoInputs.cache
+C:\Users\ua-x9\source\repos\ExploringAccions\TestExploringActions\obj\Debug\net8.0\TestExploringActions.AssemblyInfo.cs
+C:\Users\ua-x9\source\repos\ExploringAccions\TestExploringActions\obj\Debug\net8.0\TestExploringActions.csproj.CoreCompileInputs.cache
